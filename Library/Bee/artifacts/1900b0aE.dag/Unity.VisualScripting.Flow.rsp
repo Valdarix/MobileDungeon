@@ -117,6 +117,7 @@
 -define:MODULE_PARTICLE_SYSTEM_EXISTS
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/GameDevHQ/FileBase/Plugin/Filebase.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.2.0a20/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.2.0a20/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.2.0a20/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
